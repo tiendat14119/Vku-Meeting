@@ -118,3 +118,4 @@ $ curl -X POST "https://sfu.mirotalk.org/api/v1/meeting" -H "authorization: miro
 ## License
 
 -   [AGPLv3](LICENSE)
+# vku-meet
